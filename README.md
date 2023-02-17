@@ -1,4 +1,10 @@
-### Hi there 👋
+# Halo Semua 👋
+
+Perkenalkan nama saya **Rusma Irawati**.\
+Mahasiswi Sistem Informasi di Universitas Terbuka.\
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/mwlite/in/rusma-irawati-18160414a/)ku ya.
+
+
 
 <!--
 **rsmshall/rsmshall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
