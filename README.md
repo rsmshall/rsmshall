@@ -4,6 +4,12 @@ Perkenalkan nama saya **Rusma Irawati**.\
 Mahasiswi Sistem Informasi di Universitas Terbuka.\
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/mwlite/in/rusma-irawati-18160414a/) ku ya.
 
+<p align="left">
+<a href="https://github.com/rsmshall">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 <!--
